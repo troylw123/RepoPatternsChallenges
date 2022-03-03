@@ -1,0 +1,12 @@
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\bin\Debug\net6.0\ref\Classes.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\ref\Classes.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge1\Classes\obj\Debug\net6.0\Classes.pdb

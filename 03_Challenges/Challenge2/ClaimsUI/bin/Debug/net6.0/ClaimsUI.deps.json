@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClaimsUI/1.0.0": {
+        "dependencies": {
+          "Claims": "1.0.0"
+        },
+        "runtime": {
+          "ClaimsUI.dll": {}
+        }
+      },
+      "Claims/1.0.0": {
+        "runtime": {
+          "Claims.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClaimsUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Claims/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

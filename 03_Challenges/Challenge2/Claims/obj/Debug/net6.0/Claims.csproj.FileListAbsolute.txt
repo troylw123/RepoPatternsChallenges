@@ -1,0 +1,12 @@
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\bin\Debug\net6.0\Claims.deps.json
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\bin\Debug\net6.0\Claims.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\bin\Debug\net6.0\ref\Claims.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\bin\Debug\net6.0\Claims.pdb
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.csproj.AssemblyReference.cache
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.AssemblyInfoInputs.cache
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.AssemblyInfo.cs
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.csproj.CoreCompileInputs.cache
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\ref\Claims.dll
+C:\Users\troyl\Documents\SD134FT\03_Challenges\Challenge2\Claims\obj\Debug\net6.0\Claims.pdb
