@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\troyl\\Documents\\SD134FT\\03_Challenges\\Challenge1\\Classes\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\troyl\\Documents\\SD134FT\\RepoPatternChallenges\\03_Challenges\\Challenge1\\Classes\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\troyl\\Documents\\SD134FT\\03_Challenges\\Challenge1\\Classes\\Classes.csproj",
+      "projectPath": "C:\\Users\\troyl\\Documents\\SD134FT\\RepoPatternChallenges\\03_Challenges\\Challenge1\\Classes\\Classes.csproj",
       "packagesPath": "C:\\Users\\troyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\troyl\\Documents\\SD134FT\\03_Challenges\\Challenge1\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\troyl\\Documents\\SD134FT\\RepoPatternChallenges\\03_Challenges\\Challenge1\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\troyl\\AppData\\Roaming\\NuGet\\NuGet.Config"

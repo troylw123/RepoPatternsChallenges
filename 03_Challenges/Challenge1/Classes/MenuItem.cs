@@ -9,10 +9,10 @@ public class MenuItem
 
     public MenuItem(){}
     public MenuItem (string name, string description, int mealNumber, double price, string ingredients){
-        name = Name;
-        description = Description;
-        mealNumber = MealNumber;
-        price = Price;
-        ingredients = Ingredients;
+        Name = name;
+        Description = description;
+        MealNumber = mealNumber;
+        Price = price;
+        Ingredients = ingredients;
     }
 }

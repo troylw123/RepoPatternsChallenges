@@ -37,6 +37,17 @@ public class MenuItemList {
             return null;
     }
 
+    public MenuItem GetMealByNumber(int mealNumber){
+        foreach (MenuItem item in _fullmenu)
+        {
+            if (item.MealNumber == mealNumber)
+            {
+                return item;
+            }
+        }
+        return null;
+    }
+
     public bool DeleteMenuItem(MenuItem existingItem){
         bool deleteResult = _fullmenu.Remove(existingItem);
         return deleteResult;

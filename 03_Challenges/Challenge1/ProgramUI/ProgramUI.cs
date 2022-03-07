@@ -88,16 +88,14 @@ public class ProgramUI
         Console.WriteLine("What is the meal number you would like to delete?");
         int mealToDelete = int.Parse(Console.ReadLine());
         // int startingCount = _fullmenu.Count();
-
-        foreach (MenuItem item in listOfMenuItems)
-        {
-            if (item.MealNumber == mealToDelete)
+        MenuItem item = _listOfMenuItems.GetMealByNumber(mealToDelete);
+        if (item != null)
             {
                 _listOfMenuItems.DeleteMenuItem(item);
+                Console.WriteLine($"Meal number {mealToDelete} was deleted.");
             }
-        }
+        else Console.WriteLine($"Meal number {mealToDelete} not found.");      
 
-        
         Console.WriteLine("Press any key to continue................");
         Console.ReadKey();
     }
@@ -107,7 +105,7 @@ public class ProgramUI
     Console.WriteLine($"Meal Number: {item.MealNumber}\n"+
     $"Meal Name: {item.Name}\n"+
     $"Description: {item.Description}\n"+
-    $"Price: {item.Price}\n"+
+    $"Price: {item.Price:C2}\n"+
     $"Ingredients: {item.Ingredients}\n");
 }
     
@@ -117,6 +115,8 @@ public class ProgramUI
 
         MenuItem chicagoStyleDog = new MenuItem ("Chicago Style Hot Dog", "hot dog with all the fixins", 1, 3.99, "Lettuce, Tomato, Onion, Pickle, Ketchup, and Mustard");
         _listOfMenuItems.AddItemToMenu(chicagoStyleDog);
+        MenuItem chiliDog = new MenuItem ("Chili Cheese Dog", "Hot dog with Chili and Cheese", 2, 4.50, "chili, cheese, and onions");
+        _listOfMenuItems.AddItemToMenu(chiliDog);
         
     }
 }
