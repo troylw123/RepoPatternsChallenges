@@ -1,0 +1,12 @@
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\bin\Debug\net6.0\OutingClass.deps.json
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\bin\Debug\net6.0\OutingClass.dll
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\bin\Debug\net6.0\ref\OutingClass.dll
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\bin\Debug\net6.0\OutingClass.pdb
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.csproj.AssemblyReference.cache
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.AssemblyInfoInputs.cache
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.AssemblyInfo.cs
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.csproj.CoreCompileInputs.cache
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.dll
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\ref\OutingClass.dll
+C:\Users\troyl\Documents\SD134FT\RepoPatternChallenges\03_Challenges\Challenge4\OutingClass\obj\Debug\net6.0\OutingClass.pdb
